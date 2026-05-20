@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+*.pt
 
 # Output videos
 *_output.mp4
